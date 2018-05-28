@@ -86,7 +86,7 @@ header button {
   -moz-appearance: none;
 }
 
-/* header button svg {
+header button svg {
   width: 16px;
   height: 16px;
 
@@ -95,7 +95,7 @@ header button {
   left: 50%;
 
   margin: -8px 0 0 -8px;
-} */
+}
 
 header button svg .fill {
   fill: #25b99a;
@@ -168,7 +168,7 @@ ul.todo li .buttons button:last-of-type:before {
   top: 10px;
   left: 0;
 }
-/* 
+
 ul.todo li .buttons button svg {
   width: 22px;
   height: 22px;
@@ -218,7 +218,7 @@ ul.todo li .buttons button.remove:hover svg .fill {
 
 ul.todo li .buttons button.complete svg .fill {
   fill: #25b99a;
-} */
+}
 
 ul.todo#completed {
   position: relative;
