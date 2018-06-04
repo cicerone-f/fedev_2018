@@ -1,6 +1,6 @@
 var data = {
-  todo: [],
-  completed: []
+  todo: ['Learn Angularjs', 'Learn Meteor.js', 'Learn VueJs'],
+  completed: ['Learn JS']
 }
 
 // Remove and complete icons in SVG format
